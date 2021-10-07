@@ -24,10 +24,16 @@ class RockPaperScissors
 			
 			// Intro to the game
 
-			System.out.println(" _          _    _       __             			");
-			System.out.println("|_) _  _|  |_)_ |_)_ __ (_  _o _ _ _ ___			");
-			System.out.println("| \\(_)(_|< | (_|| (/_|  __)(_|_>_>(_)|_>			");
+			System.out.println("╔═══╗        ╔╗      ╔═══╗                    ╔═══╗                         ");
+			System.out.println("║╔═╗║        ║║      ║╔═╗║                    ║╔═╗║                         ");
+			System.out.println("║╚═╝║╔══╗╔══╗║║╔╗    ║╚═╝║╔══╗ ╔══╗╔══╗╔═╗    ║╚══╗╔══╗╔╗╔══╗╔══╗╔══╗╔═╗╔══╗");
+			System.out.println("║╔╗╔╝║╔╗║║╔═╝║╚╝╝    ║╔══╝╚ ╗║ ║╔╗║║╔╗║║╔╝    ╚══╗║║╔═╝╠╣║══╣║══╣║╔╗║║╔╝║══╣ ");
+			System.out.println("║║║╚╗║╚╝║║╚═╗║╔╗╗    ║║   ║╚╝╚╗║╚╝║║║═╣║║     ║╚═╝║║╚═╗║║╠══║╠══║║╚╝║║║ ╠══║");
+			System.out.println("╚╝╚═╝╚══╝╚══╝╚╝╚╝    ╚╝   ╚═══╝║╔═╝╚══╝╚╝     ╚═══╝╚══╝╚╝╚══╝╚══╝╚══╝╚╝ ╚══╝");
+			System.out.println("                               ║║                                           ");
+			System.out.println("                               ╚╝                                           			");
 			System.out.println(" ");
+
 			TimeUnit.MILLISECONDS.sleep(500);
 			System.out.println("...loading ");
 			TimeUnit.MILLISECONDS.sleep(100);
