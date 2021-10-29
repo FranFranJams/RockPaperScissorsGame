@@ -1,6 +1,6 @@
-//Simple Rock Paper Scissors game
-// by Fran
-// Java using Geany Editor
+// Simple Rock Paper Scissors game
+// By Fran
+// Made in Java using Visual Studio Code
 
 import java.util.Scanner;
 import java.util.Random;
@@ -149,7 +149,7 @@ class RockPaperScissors
 				// Exits game
 				System.out.println("Exiting... thank you for playing <3");
 				TimeUnit.MILLISECONDS.sleep(500);
-				System.out.println("This game was created by FranFranJams (Fran[They/She]#7787 on discord)");
+				System.out.println("This game was created by FranFranJams (Fran[They/She]#0666 on discord)");
 				TimeUnit.MILLISECONDS.sleep(2500);
 
 				break; // Breaks the While Loop
